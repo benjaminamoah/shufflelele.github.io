@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "shufflelele.github.io/static/css/main.df253763.chunk.css",
-    "main.js": "shufflelele.github.io/static/js/main.6988b93b.chunk.js",
-    "main.js.map": "shufflelele.github.io/static/js/main.6988b93b.chunk.js.map",
-    "runtime~main.js": "shufflelele.github.io/static/js/runtime~main.57b0f9e9.js",
-    "runtime~main.js.map": "shufflelele.github.io/static/js/runtime~main.57b0f9e9.js.map",
-    "static/js/2.627d0b4c.chunk.js": "shufflelele.github.io/static/js/2.627d0b4c.chunk.js",
-    "static/js/2.627d0b4c.chunk.js.map": "shufflelele.github.io/static/js/2.627d0b4c.chunk.js.map",
-    "index.html": "shufflelele.github.io/index.html",
-    "precache-manifest.09bf67b4b2dd0ab83f7d53fff3bbaff3.js": "shufflelele.github.io/precache-manifest.09bf67b4b2dd0ab83f7d53fff3bbaff3.js",
-    "service-worker.js": "shufflelele.github.io/service-worker.js",
-    "static/css/main.df253763.chunk.css.map": "shufflelele.github.io/static/css/main.df253763.chunk.css.map"
+    "main.css": "/shufflelele/static/css/main.cc7264be.chunk.css",
+    "main.js": "/shufflelele/static/js/main.cc0891fc.chunk.js",
+    "main.js.map": "/shufflelele/static/js/main.cc0891fc.chunk.js.map",
+    "runtime~main.js": "/shufflelele/static/js/runtime~main.b1e35f13.js",
+    "runtime~main.js.map": "/shufflelele/static/js/runtime~main.b1e35f13.js.map",
+    "static/js/2.338af885.chunk.js": "/shufflelele/static/js/2.338af885.chunk.js",
+    "static/js/2.338af885.chunk.js.map": "/shufflelele/static/js/2.338af885.chunk.js.map",
+    "index.html": "/shufflelele/index.html",
+    "precache-manifest.612465622a7709802a9af2bda8bcc6e2.js": "/shufflelele/precache-manifest.612465622a7709802a9af2bda8bcc6e2.js",
+    "service-worker.js": "/shufflelele/service-worker.js",
+    "static/css/main.cc7264be.chunk.css.map": "/shufflelele/static/css/main.cc7264be.chunk.css.map"
   }
 }
